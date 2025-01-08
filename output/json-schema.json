@@ -1,0 +1,26 @@
+{
+  "id": "random_string",
+  "title": "random_string",
+  "description": "random_string",
+  "startDate": 30,
+  "endDate": 35,
+  "attendees": [
+    {
+      "userId": 88,
+      "access": "modify",
+      "formAccess": "execute_view"
+    },
+    {
+      "userId": 56,
+      "access": "execute",
+      "formAccess": "execute_view"
+    }
+  ],
+  "locationId": null,
+  "priorProbability": 53,
+  "externalId": "random_string",
+  "tags": [],
+  "form": {
+    "id": 87
+  }
+}
