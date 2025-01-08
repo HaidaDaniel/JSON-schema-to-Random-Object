@@ -7,8 +7,8 @@ Run the app with node script.js.
 Generated files will appear in the output folder with matching names.
 ## Example
 
-**Input ([input/json-schema.json](https://github.com/HaidaDaniel/JSON-schema-to-Random-Object/blob/main/input/json-schema.json)):**
-**Outrut ([output/json-schema.json](https://github.com/HaidaDaniel/JSON-schema-to-Random-Object/blob/main/ouput/json-schema.json)):**
+**Input ([input/json-schema.json](https://github.com/HaidaDaniel/JSON-schema-to-Random-Object/tree/main/input/json-schema.json)):**
+**Outrut ([output/json-schema.json](https://github.com/HaidaDaniel/JSON-schema-to-Random-Object/tree/main/ouput/json-schema.json)):**
 
 
 
