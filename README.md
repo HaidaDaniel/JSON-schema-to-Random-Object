@@ -8,7 +8,7 @@ Generated files will appear in the output folder with matching names.
 ## Example
 
 **Input ([input/json-schema.json](https://github.com/HaidaDaniel/JSON-schema-to-Random-Object/tree/main/input/json-schema.json)):**
-**Outrut ([output/json-schema.json]([https://github.com/HaidaDaniel/JSON-schema-to-Random-Object/tree/main/ouput/json-schema.json](https://github.com/HaidaDaniel/JSON-schema-to-Random-Object/blob/main/output/json-schema.json))):**
+**Output ([output/json-schema.json](https://github.com/HaidaDaniel/JSON-schema-to-Random-Object/blob/main/output/json-schema.json)):**
 
 
 
